@@ -1,0 +1,10 @@
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\bin\Debug\FileManagerTaskTray.exe.config
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\bin\Debug\FileManagerTaskTray.exe
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\bin\Debug\FileManagerTaskTray.pdb
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.csprojAssemblyReference.cache
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.Properties.Resources.resources
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.csproj.GenerateResource.cache
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.exe
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.pdb
+C:\Users\Sonic\source\repos\FileManagerTaskTray\FileManagerTaskTray\obj\Debug\FileManagerTaskTray.Wndw_Abt.resources
